@@ -1,0 +1,222 @@
+CLAVE,NOMBRE
+P000,Feto y recién nacido afectados por trastornos hipertensivos de la madre
+P001,Feto y recién nacido afectados por enfermedades renales y de las vías urinarias de la madre
+P002,Feto y recién nacido afectados por enfermedades infecciosas y parasitarias de la madre
+P003,Feto y recién nacido afectados por otras enfermedades circulatorias y respiratorias de la madre
+P004,Feto y recién nacido afectados por trastornos nutricionales de la madre
+P005,Feto y recién nacido afectados por traumatismo de la madre
+P007,"Feto y recién nacido afectados por otro procedimiento médico en la madre, no clasificado en otra parte"
+P008,Feto y recién nacido afectados por otras afecciones maternas
+P009,Feto y recién nacido afectados por afección materna no especificada
+P010,Feto y recién nacido afectados por incompetencia del cuello uterino
+P011,Feto y recién nacido afectados por ruptura prematura de las membranas
+P012,Feto y recién nacido afectados por oligohidramnios
+P013,Feto y recién nacido afectados por polihidramnios
+P014,Feto y recién nacido afectados por embarazo ectópico
+P015,Feto y recién nacido afectados por embarazo múltiple
+P016,Feto y recién nacido afectados por muerte materna
+P017,Feto y recién nacido afectados por presentación anómala antes del trabajo de parto
+P018,Feto y recién nacido afectados por otras complicaciones maternas del embarazo
+P019,Feto y recién nacido afectados por complicaciones maternas no especificadas del embarazo
+P020,Feto y recién nacido afectados por placenta previa
+P021,Feto y recién nacido afectados por otras formas de desprendimiento y de hemorragia placentarios
+P022,Feto y recién nacido afectados por otras anormalidades morfológicas y funcionales de la placenta y las no especificadas
+P023,Feto y recién nacido afectados por síndromes de transfusión placentaria
+P024,Feto y recién nacido afectados por prolapso del cordón umbilical
+P025,Feto y recién nacido afectados por otra compresión del cordón umbilical
+P026,Feto y recién nacido afectados por otras complicaciones del cordón umbilical y las no especificadas
+P027,Feto y recién nacido afectados por corioamnionitis
+P028,Feto y recién nacido afectados por otras anormalidades de las membranas
+P029,Feto y recién nacido afectados por anormalidad no especificada de las membranas
+P030,Feto y recién nacido afectados por parto y extracción de nalgas
+P031,"Feto y recién nacido afectados por otra presentación anómala, posición anómala y desproporción durante el trabajo de parto y el parto"
+P032,Feto y recién nacido afectados por parto con fórceps
+P034,Feto y recién nacido afectados por parto por cesárea
+P035,Feto y recién nacido afectados por parto precipitado
+P036,Feto y recién nacido afectados por contracciones uterinas anormales
+P038,Feto y recién nacido afectados por otras complicaciones especificadas del trabajo de parto y del parto
+P039,Feto y recién nacido afectados por complicaciones no especificadas del trabajo de parto y del parto
+P041,Feto y recién nacido afectados por otras medicaciones maternas
+P044,Feto y recién nacido afectados por drogadicción materna
+P048,Feto y recién nacido afectados por otras influencias nocivas de la madre
+P049,"Feto y recién nacido afectados por influencias nocivas de la madre, no especificadas"
+P050,Bajo peso para la edad gestacional
+P051,Pequeño para la edad gestacional
+P052,"Desnutrición fetal, sin mención de peso o talla bajos para la edad gestacional"
+P059,"Retardo del crecimiento fetal, no especificado"
+P081,Otros recién nacidos con sobrepeso para la edad gestacional
+P082,Recién nacido postérmino sin sobrepeso para su edad gestacional
+P200,Hipoxia intrauterina notada por primera vez antes del inicio del trabajo de parto
+P201,Hipoxia intrauterina notada por primera vez durante el trabajo de parto y el parto
+P209,"Hipoxia intrauterina, no especificada"
+P258,"Otras afecciones relacionadas con el enfisema intersticial, originadas en el período perinatal"
+P269,"Hemorragia pulmonar no especificada, originada en el período perinatal"
+P278,Otras enfermedades respiratorias crónicas originadas en el período perinatal
+P293,Persistencia de la circulación fetal
+P298,Otros trastornos cardiovasculares originados en el período perinatal
+P299,"Trastorno cardiovascular no especificado, originado en el período perinatal"
+P351,Infección citomegalovírica congénita
+P359,"Enfermedad viral congénita, sin otra especificación"
+P371,Toxoplasmosis congénita
+P379,"Enfermedad infecciosa y parasitaria congénita, no especificada"
+P392,"Infección intraamniótica del feto, no clasificada en otra parte"
+P398,Otras infecciones especificadas propias del período perinatal
+P399,"Infección propia del período perinatal, no especificada"
+P504,Hemorragia fetal hacia la circulación materna
+P508,Otras pérdidas de sangre fetal
+P509,"Pérdida de sangre fetal, no especificada"
+P520,"Hemorragia intraventricular (no traumática) grado 1, del feto y del recién nacido"
+P523,"Hemorragia intraventricular (no traumática) del feto y del recién nacido, sin otra especificación"
+P524,Hemorragia intracerebral (no traumática) del feto y del recién nacido
+P525,Hemorragia subaracnoidea (no traumática) del feto y del recién nacido
+P529,"Hemorragia intracraneal (no traumática) del feto y del recién nacido, sin otra especificación"
+P545,Hemorragia cutánea neonatal
+P548,Otras hemorragias fetales y neonatales especificadas
+P550,Incompatibilidad Rh del feto y del recién nacido
+P558,Otras enfermedades hemolíticas del feto y del recién nacido
+P559,"Enfermedad hemolítica del feto y del recién nacido, no especificada"
+P560,Hidropesía fetal debida a incompatibilidad
+P569,Hidropesía fetal debida a otras enfermedades hemolíticas especificadas y a las no especificadas
+P60X,Coagulación intravascular diseminada en el feto y el recién nacido
+P614,"Otras anemias congénitas, no clasificadas en otra parte"
+P618,Otros trastornos hematológicos perinatales especificados
+P701,Síndrome del recién nacido de madre diabética
+P788,Otros trastornos perinatales específicos del sistema digestivo
+P832,Hidropesía fetal no debida a enfermedad hemolítica
+P833,"Otros edemas y los no especificados, propios del feto y del recién nacido"
+P95X,Muerte fetal de causa no especificada
+P964,"Terminación del embarazo, feto y recién nacido"
+P965,"Complicaciones de procedimientos intrauterinos, no clasificados en otra parte"
+P968,Otras afecciones especificadas originadas en el período perinatal
+P969,Afección no especificada originada en el período perinatal
+Q000,Anencefalia
+Q001,Craneorraquisquisis
+Q002,Iniencefalia
+Q012,Encefalocele occipital
+Q019,"Encefalocele, no especificado"
+Q031,Atresia de los agujeros de Magendie y de Luschka
+Q038,Otros hidrocéfalos congénitos
+Q039,"Hidrocéfalo congénito, no especificado"
+Q040,Malformaciones congénitas del cuerpo calloso
+Q042,Holoprosencefalia
+Q043,Otras anomalías hipoplásicas del encéfalo
+Q046,Quistes cerebrales congénitos
+Q048,"Otras malformaciones congénitas del encéfalo, especificadas"
+Q049,"Malformación congénita del encéfalo, no especificada"
+Q050,Espina bífida cervical con hidrocéfalo
+Q053,Espina bífida sacra con hidrocéfalo
+Q054,"Espina bífida con hidrocéfalo, sin otra especificación"
+Q059,"Espina bífida, no especificada"
+Q068,Otras malformaciones congénitas especificadas de la médula espinal
+Q070,Síndrome de Arnold-Chiari
+Q078,"Otras malformaciones congénitas del sistema nervioso, especificadas"
+Q079,"Otras malformaciones congénitas del sistema nervioso, no especificada"
+Q188,Otras malformaciones congénitas especificadas de cara y cuello
+Q189,"Malformación congénita de la cara y del cuello, no especificada"
+Q203,Discordancia de la conexión ventriculoarterial
+Q204,Ventrículo con doble entrada
+Q208,Otras malformaciones congénitas de las cámaras cardíacas y sus conexiones
+Q209,"Malformación congénita de las cámaras cardíacas y sus conexiones, no especificada"
+Q210,Defecto del tabique ventricular
+Q211,Defecto del tabique auricular
+Q213,Tetralogía de Fallot
+Q218,Otras malformaciones congénitas de los tabiques cardíacos
+Q223,Otras malformaciones congénitas de la válvula pulmonar
+Q225,Anomalía de Ebstein
+Q228,Otras malformaciones congénitas de la válvula tricúspide
+Q230,Estenosis congénita de la válvula aórtica
+Q234,Síndrome de hipoplasia del corazón izquierdo
+Q239,"Malformación congénita de las válvulas aórtica y mitral, no especificada"
+Q240,Dextrocardia
+Q241,Levocardia
+Q243,Estenosis del infundíbulo pulmonar
+Q246,Bloqueo cardíaco congénito
+Q248,"Otras malformaciones congénitas del corazón, especificadas"
+Q249,"Malformación congénita del corazón, no especificada"
+Q251,Coartación de la aorta
+Q256,Estenosis de la arteria pulmonar
+Q259,"Malformación congénita de las grandes arterias, no especificada"
+Q268,Otras malformaciones congénitas de las grandes venas
+Q270,Ausencia e hipoplasia congénita de la arteria umbilical
+Q279,"Malformación congénita del sistema vascular periférico, no especificada"
+Q289,"Malformación congénita del sistema circulatorio, no especificada"
+Q321,Otras malformaciones congénitas de la tráquea
+Q332,Secuestro del pulmón
+Q333,Agenesia del pulmón
+Q336,Hipoplasia y displasia pulmonar
+Q338,Otras malformaciones congénitas del pulmón
+Q339,"Malformación congénita del pulmón, no especificada"
+Q359,"Fisura del paladar, sin otra especificación"
+Q369,"Labio leporino, unilateral"
+Q390,Atresia del esófago sin mención de fístula
+Q402,"Otras malformaciones congénitas del estómago, especificadas"
+Q403,"Malformación congénita del estómago, no especificada"
+Q409,"Malformación congénita de la parte superior del tubo digestivo, no especificada"
+Q410,"Ausencia, atresia y estenosis congénita del duodeno"
+Q411,"Ausencia, atresia y estenosis congénita del yeyuno"
+Q419,"Ausencia, atresia y estenosis congénita del intestino delgado, parte no especificada"
+Q423,"Ausencia, atresia y estenosis congénita del ano, sin fístula"
+Q439,"Malformación congénita del intestino, no especificada"
+Q446,Enfermedad quística del hígado
+Q458,"Otras malformaciones congénitas del sistema digestivo, especificadas"
+Q459,"Malformación congénita del sistema digestivo, no especificada"
+Q559,"Malformación congénita de los órganos genitales masculinos, no especificada"
+Q600,"Agenesia renal, unilateral"
+Q601,"Agenesia renal, bilateral"
+Q602,"Agenesia renal, sin otra especificación"
+Q603,"Hipoplasia renal, unilateral"
+Q604,"Hipoplasia renal, bilateral"
+Q605,"Hipoplasia renal, no especificada"
+Q606,Síndrome de Potter
+Q611,"Riñón poliquístico, autosómico recesivo"
+Q613,"Riñón poliquístico, tipo no especificado"
+Q614,Displasia renal
+Q620,Hidronefrosis congénita
+Q638,"Otras malformaciones congénitas del riñón, especificadas"
+Q639,"Malformación congénita del riñón, no especificada"
+Q641,Extrofia de la vejiga urinaria
+Q647,Otras malformaciones congénitas de la vejiga y de la uretra
+Q649,"Malformación congénita del aparato urinario, no especificada"
+Q672,Dolicocefalia
+Q750,Craneosinostosis
+Q753,Macrocefalia
+Q759,Malformación congénita no especificada de los huesos del cráneo y de la cara
+Q764,"Otra malformación congénita de la columna vertebral, no asociada con escoliosis"
+Q771,Enanismo tanatofórico
+Q774,Acondroplasia
+Q779,"Osteocondrodisplasia con defectos del crecimiento de los huesos largos y de la columna vertebral, sin otra especificación"
+Q781,Displasia poliostótica fibrosa
+Q789,"Osteocondrodisplasia, no especificada"
+Q790,Hernia diafragmática congénita
+Q792,Exónfalos
+Q793,Gastrosquisis
+Q795,Otras malformaciones congénitas de la pared abdominal
+Q798,Otras malformaciones congénitas del sistema osteomuscular
+Q799,"Malformación congénita del sistema osteomuscular, no especificada"
+Q860,Síndrome fetal (dismórfico) debido al alcohol
+Q868,Otros síndromes de malformaciones congénitas debidos a causas exógenas conocidas
+Q878,"Otros síndromes de malformaciones congénitas especificados, no clasificados en otra parte"
+Q892,Malformaciones congénitas de otras glándulas endocrinas
+Q893,Situs inversus
+Q894,Gemelos siameses
+Q897,"Malformaciones congénitas múltiples, no clasificadas en otra parte"
+Q898,"Otras malformaciones congénitas, especificadas"
+Q899,"Malformación congénita, no especificada"
+Q900,"Trisomía 21, por falta de disyunción meiótica"
+Q909,"Síndrome de Down, no especificado"
+Q911,"Trisomía 18, mosaico (por falta de disyunción mitótica)"
+Q912,"Trisomía 18, por translocación"
+Q913,"Síndrome de Edwards, no especificado"
+Q915,"Trisomía 13, mosaico (por falta de disyunción mitótica)"
+Q916,"Trisomía 13, por translocación"
+Q917,"Síndrome de Patau, no especificado"
+Q920,"Trisomía de un cromosoma completo, por falta de disyunción meiótica"
+Q923,Trisomía parcial menor
+Q928,"Otras trisomías y trisomías parciales de los autosomas, especificadas"
+Q933,Supresión del brazo corto del cromosoma 4
+Q935,Otras supresiones de parte de un cromosoma
+Q937,Supresiones con otros reordenamientos complejos
+Q950,Translocación equilibrada e inserción en individuo normal
+Q969,"Síndrome de Turner, no especificado"
+Q998,"Otras anomalías de los cromosomas, especificadas"
+Q999,"Anomalía cromosómica, no especificada"
